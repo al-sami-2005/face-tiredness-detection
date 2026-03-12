@@ -4,4 +4,4 @@ env/
 
 # Ignore Python cache files
 __pycache__/
-*.pyc
+*.pyc.DS_Store
