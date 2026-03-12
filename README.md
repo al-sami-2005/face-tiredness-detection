@@ -4,7 +4,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 ![AI Safety](https://img.shields.io/badge/AI-Driver%20Safety-orange)
 
-A lightweight, real-time Computer Vision application built with Python and OpenCV to detect facial direction and continuously monitor signs of tiredness or drowsiness. 
+A lightweight,very simple real-time Computer Vision application built with Python and OpenCV to detect facial direction and continuously monitor signs of tiredness or drowsiness. 
 
 > **🤖 Developer Note:** This project was brought to life through some elite "vibe coding." The core logic and vision are all mine, but I teamed up with Gemini 😂😂 
 
